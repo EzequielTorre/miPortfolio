@@ -110,8 +110,9 @@ span{
     margin-left: 70px;
     gap: .5em;
 }
-
-
+.menu{
+    font-size: 2rem;
+}
 
 /*================ ESTILOS DEL CONTENIDO PRINCIPAL ===================*/
 section {
